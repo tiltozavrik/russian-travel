@@ -17,6 +17,6 @@
   @media screen and (max-width: 767px) {
     .place__url-heading {
       line-height: 100%;
-      
+      margin: 0 16px;
     }
   }
